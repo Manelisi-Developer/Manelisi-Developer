@@ -4,4 +4,4 @@ Please reach out to me about the Project so i can have much experience on what i
 
 You can reach out to me through my phone number +27782826431 or my email "manelisi.motha.developer@gmail.com"
 
-I am a Python,Javascript expert and i recently got into using PyQt for my projects.
+I am a Python and Javascript expert
